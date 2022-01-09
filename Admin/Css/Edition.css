@@ -1,0 +1,95 @@
+/* Radio Administravel - Version v1.0 */
+/* Todos os Direitos Reservados */
+/* Copyright 2011 */
+/* Powered by: Design Edition */
+
+/*Reset*/
+*{margin:0px;padding:0px;}
+
+/*Config*/
+body{background:url(../Imagens/Fundo.jpg);font-family:Tahoma;font-size:12px;color:#F4F4F4;margin-top:10px;}
+
+/*Centralizador*/
+.Centralizador {margin-left:auto;margin-right:auto;width:970px;border:#333 dashed 1px;-webkit-border-radius:6px;-moz-border-radius:6px;}
+
+/*Classes*/
+#header {width:970px;height:120px;background:#15729D;}
+#header_logo{float:left;width:380px;height:100px;margin:10px;background-image:url(../Imagens/Logo.gif);}
+#header_perfil{float:right;width:290px;height:100px;margin:10px;background:#000;-webkit-border-radius:5px;-moz-border-radius:5px;}
+#menu{width:970px;background:#0A0A0A;;height:31px;}
+#banner{width:950px;margin:10px;background:#000;height:200px;float:left;}
+#body{width:970px;float:right;background:#000;}
+#footer {width:970px;height:43px;color:#FFF;background:#15729D;}
+.warning {padding: 15px 0px;margin-bottom: 15px;background: #FFDFE0;color:#000000;border: 1px solid #FF9999;font-size: 12px;text-align: center;}
+.sucess{padding: 15px 0px;margin-bottom: 15px;background:#D9FFD9;color:#000000;border:1px solid #0C0;font-size: 12px;text-align: center;}
+.atencion{padding: 15px 0px;margin-bottom: 15px;background:#FFFF99;color:#000000;border:1px solid #FFFF00;font-size: 12px;text-align: center;}
+input,select{font:12px/normal Tahoma,Arial,Helvetica,sans-serif}
+select,.inputbox{padding:2px}
+.button{background:#fff;height:23px;width:100px;color:#15729D;font-family:Tahoma; font-size:11px;border:none;cursor:pointer;border:1px solid #CCC;-webkit-border-radius:5px;-moz-border-radius:5px;text-shadow:0 0 .3em #F4F4F4}
+.button:hover{color:#000;font-family:Tahoma;font-size:11px;text-shadow:0 0 .1em #000;background:#fff;}
+
+
+
+
+
+
+
+
+/*************** jQuery WYSIWYG ***************/
+
+div.wysiwyg { border: 1px solid #cccccc; padding: 5px; background-color: #ffffff; width: 97.5% !important; }
+div.wysiwyg * { margin: 0; padding: 0; }
+
+div.wysiwyg ul.panel { border-bottom: 1px solid #cccccc; float: left; width: 100%; padding: 0 0 5px 0; }
+div.wysiwyg ul.panel li { list-style-type: none; float: left; margin: 0 2px; padding: 0 !important;  background: #ffffff; background-image: none !important;}
+div.wysiwyg ul.panel li.separator { height: 16px; margin: 0 4px; border-left: 1px solid #cccccc; }
+div.wysiwyg ul.panel li a { display: block; padding: 0 !important; width: 16px; height: 16px; background: url('../Imagens/jquery.wysiwyg.gif') no-repeat -64px -80px; border: 0; cursor: pointer; padding: 1px; }
+div.wysiwyg ul.panel li a:hover, div.wysiwyg ul.panel li a.active {  }
+div.wysiwyg ul.panel li a.active { background-color: #f9f9f9; border: 1px solid #cccccc; border-left-color: #aaaaaa; border-top-color: #aaaaaa; padding: 0; }
+
+div.wysiwyg ul.panel li a.bold { background-position: 0 -16px; }
+div.wysiwyg ul.panel li a.italic { background-position: -16px -16px; }
+div.wysiwyg ul.panel li a.strikeThrough { background-position: -32px -16px; }
+div.wysiwyg ul.panel li a.underline { background-position: -48px -16px; }
+
+div.wysiwyg ul.panel li a.justifyLeft { background-position: 0 0; }
+div.wysiwyg ul.panel li a.justifyCenter { background-position: -16px 0; }
+div.wysiwyg ul.panel li a.justifyRight { background-position: -32px 0; }
+div.wysiwyg ul.panel li a.justifyFull { background-position: -48px 0; }
+
+div.wysiwyg ul.panel li a.indent { background-position: -64px 0; }
+div.wysiwyg ul.panel li a.outdent { background-position: -80px 0; }
+
+div.wysiwyg ul.panel li a.subscript { background-position: -64px -16px; }
+div.wysiwyg ul.panel li a.superscript { background-position: -80px -16px; }
+
+div.wysiwyg ul.panel li a.undo { background-position: 0 -64px; }
+div.wysiwyg ul.panel li a.redo { background-position: -16px -64px; }
+
+div.wysiwyg ul.panel li a.insertOrderedList { background-position: -32px -48px; }
+div.wysiwyg ul.panel li a.insertUnorderedList { background-position: -16px -48px; }
+div.wysiwyg ul.panel li a.insertHorizontalRule { background-position: 0 -48px; }
+
+div.wysiwyg ul.panel li a.h1 { background-position: 0 -32px; }
+div.wysiwyg ul.panel li a.h2 { background-position: -16px -32px; }
+div.wysiwyg ul.panel li a.h3 { background-position: -32px -32px; }
+div.wysiwyg ul.panel li a.h4 { background-position: -48px -32px; }
+div.wysiwyg ul.panel li a.h5 { background-position: -64px -32px; }
+div.wysiwyg ul.panel li a.h6 { background-position: -80px -32px; }
+
+div.wysiwyg ul.panel li a.cut { background-position: -32px -64px; }
+div.wysiwyg ul.panel li a.copy { background-position: -48px -64px; }
+div.wysiwyg ul.panel li a.paste { background-position: -64px -64px; }
+
+div.wysiwyg ul.panel li a.increaseFontSize { background-position: -16px -80px; }
+div.wysiwyg ul.panel li a.decreaseFontSize { background-position: -32px -80px; }
+
+div.wysiwyg ul.panel li a.createLink { background-position: -80px -48px; }
+div.wysiwyg ul.panel li a.insertImage { background-position: -80px -80px; }
+
+div.wysiwyg ul.panel li a.html { background-position: -48px -48px; }
+div.wysiwyg ul.panel li a.removeFormat { background-position: -80px -64px; }
+
+div.wysiwyg ul.panel li a.empty { background-position: -64px -80px; }
+
+div.wysiwyg iframe { border: 0; margin: 5px 0 0 0; clear: left; width: 97.5% !important; }

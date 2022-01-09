@@ -1,0 +1,1 @@
+<?php require('../Site/Fail/Settings.php'); ?>

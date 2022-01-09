@@ -1,0 +1,33 @@
+/* Radio Administravel - Version v1.0 */
+/* Todos os Direitos Reservados */
+/* Copyright 2011 */
+/* Powered by: Design Edition */
+
+body {font-family:Tahoma; font-size: 12px; color: #000;background-image: url(http://kmc.rf.gd/Projetos/radio_impactgamez/Site/Imagens/Fundo.gif);bottom right fixed;background-size:100%}
+#Centralizador {width: 900px;margin: 10px auto; overflow: auto;border:#ccc solid 1px;}
+.menu {font:14px Tahoma; color:#909090; font-weight:bold;}
+.menu a{font:14px Tahoma; color:#909090; font-weight:bold; text-decoration:none; margin-top:12px;}
+.menu a:hover{text-decoration:none;}
+#menu {clear:both;margin: auto;padding:0;font: 12px/30px Tahoma;height: 40px;width:810px;text-align:center;border: none;}
+#menu ul {list-style: none;margin:0;padding:0;}
+ul {margin:0;}
+#menu ul li {display: inline;}
+#menu ul li a {display: block;float: left;padding: 5px 10px;color: #FFFFFF;text-decoration: none;}
+#menu ul li a:hover {background:url(http://kmc.rf.gd/Projetos/radio_impactgamez/Site/Imagens/52502626.gif);color:#FFFFFF;text-shadow: 0 0 0.4em #fff;}
+#publicidade {width:400px;height:80px;float:right;margin:48px;}
+#header {width:900px;height:210px;}
+.Musica{width:888px;height:35px;margin:0 auto;margin-top:3px;color:#FFF;font-family:Tahoma;}
+#conteudo_esquerdo {width:628px;height:auto;float:left;margin:5px;background-color:#FFF;border:1px solid #CCC;}
+#conteudo_direito {width:248px;height:auto;float:right;margin:5px;background-color:#FFF;border:1px solid #CCC;}
+.conteudo_tesquerdo {width:610px;height:25px;margin:0 auto;margin-top:5px;color:#FFF;font-family:Tahoma;}
+.conteudo_tdireito {width:232px;height:25px;margin:0 auto;margin-top:5px;color:#FFF;font-family:Tahoma;}
+.footer{width:900px;height:33px;background-color:#000033;margin:0 auto;margin-top:3px;color:#FFF;font-family:Tahoma;}
+#conteudo{width:628px;height:auto;}
+.warning {padding: 15px 0px;margin-bottom: 15px;background: #FFDFE0;color:#000000;border: 1px solid #FF9999;font-size: 12px;text-align: center;}
+.sucess{padding: 15px 0px;margin-bottom: 15px;background:#D9FFD9;color:#000000;border:1px solid #0C0;font-size: 12px;text-align: center;}
+#semfoto {width:490px;height:200px;background-image:url(http://kmc.rf.gd/Projetos/radio_impactgamez/Site/Imagens/SemFoto.jpg);}
+#noticia {width:75px;height:75px;background-image:url(http://kmc.rf.gd/Projetos/radio_impactgamez/Site/Imagens/Noticia.jpg);}
+#footer {width:898px;height:55px;float:left;margin:0px;background-color:#FFF;border:1px solid #CCC;}
+input,select{font:12px/normal Tahoma,Arial,Helvetica,sans-serif}
+select,.inputbox{padding:2px}
+select,.inputbox{border:1px solid #CCC;-moz-border-radius: 4px;-webkit-border-radius: 4px;border-radius: 4px;}

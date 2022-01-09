@@ -1,0 +1,17 @@
+/* Radio Administravel - Version v1.0 */
+/* Todos os Direitos Reservados */
+/* Copyright 2011 */
+/* Powered by: Design Edition */
+
+*{margin:0px;padding:0px;font-family:Tahoma;font-size: 13px;}
+body {font-family: Tahoma;font-size:12px;color:#a7a7a7;margin-left: 0px;margin-top: 100px;margin-right: 0px;margin-bottom: 0px;background:#dcdcdc;}
+.falha {padding: 15px 0px;margin-bottom: 15px;background: #FFDFE0;color:#000000;border: 1px solid #FF9999;font-size: 12px;text-align: center;-webkit-border-radius:10px;-moz-border-radius:10px;width:350px;height:20px;float:left;border:1px solid #f74c4c;margin-bottom:10px;position:relative;background:#febfbf url(../Imagens/delete.png) no-repeat 10px 50%;}
+.sucesso{padding: 15px 0px;margin-bottom: 15px;background:#D9FFD9;color:#000000;border:1px solid #0C0;font-size: 12px;text-align: center;-webkit-border-radius:10px;-moz-border-radius:10px;width:350px;height:20px;float:left;margin-bottom:10px;position:relative;background:#D9FFD9 url(../Imagens/sucesso.png) no-repeat 10px 50%;}
+.Centralizador {margin-left:auto;margin-right:auto;width:400px;height: 100px;}
+.button{background:#000;height:37px;width:150px;color:#F4F4F4;font-family:Tahoma; font-size:11px;border:none;cursor:pointer;border:1px solid #CCC;-webkit-border-radius:10px;-moz-border-radius:10px;text-shadow:0 0 .3em #F4F4F4}
+.button:hover{color:#000;font-family:Tahoma;font-size:11px;text-shadow:0 0 .1em #000;border:1px solid #CCC;-webkit-border-radius:10px;-moz-border-radius:10px;background:#fff;}
+input, textarea, select {margin: 0; padding: 5px; color: #CCC; background: #F0F0F6; vertical-align: bottom;border: 1px solid #CCCCCC; margin: 5px 0;font-family:Tahoma;-moz-border-radius: 5px; -webkit-border-radius:5px;}   
+input:focus, textarea:focus, select:focus {background-color: #fff; color:#666; }
+
+#conteudo {width:351px;height:205px;background-color:#F4F4F4;border:1px solid #CCC;-webkit-border-radius:10px;-moz-border-radius:10px;}
+.conteudo_topo {width:343px;height:25px;background-color:#000;margin:0 auto;margin-top:5px;color:#FFF;font-size:17px;font-weight:bold;font-family:Tahoma;-webkit-border-radius:5px;-moz-border-radius:5px;text-shadow:0 0 .3em #F4F4F4;}

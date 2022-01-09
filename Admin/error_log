@@ -1,0 +1,27 @@
+[28-Oct-2014 21:35:56 America/Sao_Paulo] PHP Fatal error:  Function name must be a string in /home/f50usoja/public_html/radio/novo/Admin/Modulos/pagInicio.php on line 4
+[28-Oct-2014 23:08:22 America/Sao_Paulo] PHP Fatal error:  Function name must be a string in /home/f50usoja/public_html/radio/novo/Admin/Modulos/pagInicio.php on line 4
+[28-Oct-2014 23:32:41 America/Sao_Paulo] PHP Fatal error:  Function name must be a string in /home/f50usoja/public_html/radio/novo/Admin/Modulos/pagInicio.php on line 4
+[28-Oct-2014 23:32:55 America/Sao_Paulo] PHP Fatal error:  Function name must be a string in /home/f50usoja/public_html/radio/novo/Admin/Modulos/pagAlterarDJ.php on line 4
+[29-Oct-2014 10:35:45 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f50usoja/public_html/radio/novo/Admin/index.php:89) in /home/f50usoja/public_html/radio/novo/Admin/AutorizaUser.php on line 11
+[29-Oct-2014 10:35:45 America/Sao_Paulo] PHP Fatal error:  Function name must be a string in /home/f50usoja/public_html/radio/novo/Admin/Modulos/pagInicio.php on line 4
+[29-Oct-2014 10:35:49 America/Sao_Paulo] PHP Fatal error:  Function name must be a string in /home/f50usoja/public_html/radio/novo/Admin/Modulos/pagInicio.php on line 4
+[29-Oct-2014 10:42:45 America/Sao_Paulo] PHP Fatal error:  Function name must be a string in /home/f50usoja/public_html/radio/novo/Admin/Modulos/pagAlterarDJ.php on line 4
+[29-Oct-2014 10:42:54 America/Sao_Paulo] PHP Fatal error:  Function name must be a string in /home/f50usoja/public_html/radio/novo/Admin/Modulos/pagInicio.php on line 4
+[29-Oct-2014 10:45:22 America/Sao_Paulo] PHP Fatal error:  Function name must be a string in /home/f50usoja/public_html/radio/novo/Admin/Modulos/pagInicio.php on line 4
+[29-Oct-2014 10:45:26 America/Sao_Paulo] PHP Fatal error:  Function name must be a string in /home/f50usoja/public_html/radio/novo/Admin/Modulos/pagInicio.php on line 4
+[29-Oct-2014 10:45:28 America/Sao_Paulo] PHP Fatal error:  Function name must be a string in /home/f50usoja/public_html/radio/novo/Admin/Modulos/pagInicio.php on line 4
+[29-Oct-2014 10:45:36 America/Sao_Paulo] PHP Fatal error:  Function name must be a string in /home/f50usoja/public_html/radio/novo/Admin/Modulos/pagInicio.php on line 4
+[29-Oct-2014 10:49:46 America/Sao_Paulo] PHP Fatal error:  Function name must be a string in /home/f50usoja/public_html/radio/novo/Admin/Modulos/pagInicio.php on line 4
+[29-Oct-2014 10:52:41 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ')' in /home/f50usoja/public_html/radio/novo/Admin/Modulos/pagInicio.php on line 4
+[29-Oct-2014 10:53:05 America/Sao_Paulo] PHP Fatal error:  Function name must be a string in /home/f50usoja/public_html/radio/novo/Admin/Modulos/pagAlterarDJ.php on line 4
+[29-Oct-2014 10:54:07 America/Sao_Paulo] PHP Fatal error:  Function name must be a string in /home/f50usoja/public_html/radio/novo/Admin/Modulos/pagAlterarDJ.php on line 4
+[29-Oct-2014 10:55:24 America/Sao_Paulo] PHP Fatal error:  Function name must be a string in /home/f50usoja/public_html/radio/novo/Admin/Modulos/pagAlterarDJ.php on line 4
+[29-Oct-2014 10:59:43 America/Sao_Paulo] PHP Fatal error:  Function name must be a string in /home/f50usoja/public_html/radio/novo/Admin/Modulos/pagNovoUser.php on line 4
+[29-Oct-2014 11:00:20 America/Sao_Paulo] PHP Fatal error:  Function name must be a string in /home/f50usoja/public_html/radio/novo/Admin/Modulos/pagDadosTrans.php on line 4
+[29-Oct-2014 11:01:20 America/Sao_Paulo] PHP Fatal error:  Function name must be a string in /home/f50usoja/public_html/radio/novo/Admin/Modulos/pagDadosTrans.php on line 4
+[29-Oct-2014 11:04:15 America/Sao_Paulo] PHP Fatal error:  Function name must be a string in /home/f50usoja/public_html/radio/novo/Admin/Modulos/pagAlterarConfig.php on line 4
+[29-Oct-2014 11:05:42 America/Sao_Paulo] PHP Fatal error:  Function name must be a string in /home/f50usoja/public_html/radio/novo/Admin/Modulos/pagAlterarFoto.php on line 4
+[29-Oct-2014 11:10:17 America/Sao_Paulo] PHP Fatal error:  Function name must be a string in /home/f50usoja/public_html/radio/novo/Admin/Modulos/pagPedidos.php on line 4
+[29-Oct-2014 18:12:45 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f50usoja/public_html/radio/novo/RadioIMPACTpainelAdmin24hrsOnline/index.php:89) in /home/f50usoja/public_html/radio/novo/RadioIMPACTpainelAdmin24hrsOnline/AutorizaUser.php on line 11
+[30-Oct-2014 10:34:28 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f50usoja/public_html/radio/novo/Admin/index.php:89) in /home/f50usoja/public_html/radio/novo/Admin/AutorizaUser.php on line 11
+[30-Oct-2014 19:54:25 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f50usoja/public_html/radio/novo/Admin/index.php:89) in /home/f50usoja/public_html/radio/novo/Admin/AutorizaUser.php on line 11

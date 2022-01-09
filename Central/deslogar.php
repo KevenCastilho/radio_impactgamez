@@ -1,0 +1,26 @@
+<?php
+session_start();
+$_SESSION = array();
+session_destroy();
+?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta HTTP-EQUIV='Refresh' CONTENT='5;URL=login.php'>
+<title>Clube de Ouvintes - Powered By Play</title>
+<style>
+@import url('./Css/Login.css');
+</style>
+</head>
+<body>
+<table width="400" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="98"><div class="ok">Deslogado com sucesso!<br />
+      Aguarde um instante você está sendo redirecionado<br />
+    <img src="Imagens/ajax-loader.gif" width="220" height="19" /> </div></td>
+  </tr>
+</table>
+
+</body>
+</html>
